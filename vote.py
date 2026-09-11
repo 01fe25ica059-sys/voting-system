@@ -4,4 +4,4 @@ if age>=18:
   print("You can register as a voter.")
 else:
   print("You are not eligible to vote.")
-  print("You must be atleast 18 yeats old.")
+  print("You must be atleast 18 years old.")
